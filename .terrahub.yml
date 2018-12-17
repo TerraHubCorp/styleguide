@@ -1,0 +1,13 @@
+---
+    ## Project config
+    project:
+      name: 'TerraHubCorp/styleguide'
+      code: '8ef48d97'
+    
+    ## Terraform config
+    terraform:
+      version: '0.11.7'
+    
+    ## To see all available configs, please check the documentation
+    ## https://github.com/TerraHubCorp/terrahub/tree/master/docs
+    
